@@ -41,7 +41,7 @@ abstract: "Acá debe ir el resumen del artículo. Por ahora, agregué algunas re
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Introducción
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
@@ -51,13 +51,17 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
-## Including Plots
+# Método
+
+## Población y muestra
 
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
+
+## Materiales
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot [@leongómez2021; @leongómez2021a; @leongómez2017; @leongómez2014; @leongómez2020].
 
