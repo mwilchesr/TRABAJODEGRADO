@@ -1,8 +1,40 @@
 ---
 title: "El rol del género en la identificación de la sociosexualidad a partir de las voces"
-author: "Maria Camila Wilches Restrepo Y Johan Sebastian Castiblanco Contreras" 
-date: '2022-09-14'
-output: pdf_document
+author:
+  - Maria Camila Wilches Restrepo:
+      institute:
+        - ueb
+  - Johan Sebastian Castiblanco Contreras:
+      institute:
+        - ueb
+institute:
+  - ueb: Facultad de Psicología, Universidad El Bosque, Bogotá, 110121, Colombia.
+header-includes: 
+  \usepackage{setspace}
+  \usepackage{float} 
+  \floatplacement{figure}{H}
+  \usepackage[utf8]{inputenc}
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \lhead{Trabajo de Grado}
+  \rhead{\textit{Identificación de la sociosexualidad a partir de las voces}}
+  \usepackage[spanish]{babel}
+  \usepackage{hanging}
+date: "`r Sys.setlocale('LC_TIME');format(Sys.Date(),'%d %B, %Y')`"
+output:
+  bookdown::pdf_document2:
+    highlight: zenburn
+    number_sections: yes
+    toc: no
+    pandoc_args:
+      - '--lua-filter=Files/scholarly-metadata.lua'
+      - '--lua-filter=Files/author-info-blocks.lua'
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+bibliography: references.bib
+urlcolor: blue
+linkcolor: red
+link-citations: true
+abstract: "Acá debe ir el resumen del artículo. Por ahora, agregué algunas referencias de prueba, y configuré el documento para que las referencias sean APA7, esté en español, y los presente como autores en un formato mejor. También hice que todas los links estén en azul, y todas las referencias cruzadas (links a secciones dentro del artpiculo) estén en rojo. Todo lo podemos cambiar."
 ---
 
 ```{r setup, include=FALSE}
@@ -27,5 +59,6 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-sjalkjskjahskhajhxhjajkhxkjhsajk
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot [@leongómez2021; @leongómez2021a; @leongómez2017; @leongómez2014; @leongómez2020].
+
+# Referencias
