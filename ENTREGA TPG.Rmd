@@ -1,6 +1,6 @@
 ---
-title: "TPG"
-author: "Maria Camila Wilches Restrepo1"
+title: "El rol del género en la identificación de la sociosexualidad a partir de las voces"
+author: "Maria Camila Wilches Restrepo Y Johan Sebastian Castiblanco Contreras" 
 date: '2022-09-14'
 output: pdf_document
 ---
