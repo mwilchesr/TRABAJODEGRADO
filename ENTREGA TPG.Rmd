@@ -43,6 +43,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introducción
 
+La sociosexualidad se define como una fuerte inclinación tanto en hombres como en mujeres, por la practica de relaciones sexuales sin ninguna tendencia hacia el compromiso [(Gettler et al., 2019)](https://www.zotero.org/google-docs/?cFA8Wc). Por otra parte, la sociosexualidad, junto con sus dimensiones cognitivas, motivacionales y conductuales pueden estar relacionadas con el moldeamiento de las estrategias de vida de los individuos (Olderbak & Figueredo, 2010; Penke & Asendorpf, 2008; Simpson & Gangestad, 1991 como se citó en [(Gettler et al., 2019](https://www.zotero.org/google-docs/?eD9QoB)). 
+
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
