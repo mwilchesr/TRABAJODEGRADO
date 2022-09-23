@@ -4,3 +4,4 @@
 .Ruserdata
 *.ini
 Files/*.ini
+refs/*.ini
