@@ -43,9 +43,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introducción
 
-La sociosexualidad se define como una fuerte inclinación tanto en hombres como en mujeres, por la practica de relaciones sexuales sin ninguna tendencia hacia el compromiso [@gettler2019]. Por otra parte, la sociosexualidad, junto con sus dimensiones cognitivas, motivacionales y conductuales pueden estar relacionadas con el moldeamiento de las estrategias de vida de los individuos (Olderbak & Figueredo, 2010; Penke & Asendorpf, 2008; Simpson & Gangestad, 1991 como se citó en [@gettler2019]. 
+La sociosexualidad juega un papel importante en las elecciones de carácter sexual de los individuos, una fuerte inclinación tanto en hombres como en mujeres, por la practica de relaciones sexuales sin ninguna tendencia hacia el compromiso o relación emocional [@gettler2019]. Por otra parte, la sociosexualidad, junto con sus dimensiones cognitivas, motivacionales y conductuales pueden estar relacionadas con las estrategias de vida de los individuos (Olderbak & Figueredo, 2010; Penke & Asendorpf, 2008; Simpson & Gangestad, 1991 como se citó en [@gettler2019]. Así mismo, la sociosexualidad podria ser impotante para determinar el historial de vida de los individuos centralizado en el coste de apareamiento/competición versus el esfuerzo de crianza y el compromiso basado en la monogamia [@gettler2019].
 
-por otro lado, es importante hablar de la sociosexualidad y la elección de pareja, como ya se menciono las actitudes sociosexuales, están basadas en la disposición del individuo a practicar las actividades sexuales sin compromiso emocional. Sin embargo, aun pueden haber diferentes factores que influyan en la reflexión sobre el compromiso emocional antes de tener alguna vinculación de carácter sexual, así como, la evaluación moral acerca de la vinculación emocional (Haidt, 2001 como se cito en [@penke2008].
+por otro lado, es importante hablar de la sociosexualidad y la elección de pareja, como ya se menciono las actitudes sociosexuales, están basadas en la disposición del individuo a practicar las actividades sexuales sin compromiso emocional. Sin embargo, aun pueden haber diferentes factores que influyan en la reflexión sobre el compromiso emocional antes de tener alguna vinculación de carácter sexual, así como, la evaluación moral y etica acerca de la vinculación emocional de dos individuos del sexo opuesto(Haidt, 2001 como se cito en [@penke2008].
+
+El inventario de orientación sociosexual (SOI), se encarga de evaluar la sociosexualidad en una sola dimensión, con puntajes altos los cuales indican una tendencia de sexualidad más promiscua y/o con menos restricciones, así como, puntajes bajos los cuales reflejan una clara tendencia a una orientación sociosexual más restringida [@penke2008] .De igual manera, el SOI-R cuenta con características como por ejemplo, un formato de respuesta abierta, una escala de calificación de 1 (nunca) a 8 (al menos una vez al día), una escala de 1 (Totalmente en desacuerdo) a 9 (Totalmente de acuerdo) y una codificación inversa [@penke2008].
+
+\
 
 ```{r cars}
 summary(cars)
