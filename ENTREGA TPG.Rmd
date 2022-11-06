@@ -43,8 +43,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introducción
 
-La sociosexualidad es entendida como la disposición que tienen los seres humanos, para entablar relaciones sexuales casuales con multiples personas, sin la necesidad de disponer de un compromiso o de vinculos emocionales fuertes, normalmente caracteristicos de una relacion de pareja [@simpson1992]. Individuos con una sociosexualidad más restringida, tienden a perseguir la monogamia, involucrarse de manera afectiva, formar lazos emocionales mas fuertes y a tener relaciones de larga duración; mientras que personas con una sociosexualidad menos restringida, tienden a involucrarse en relaciones de pareja, que se caracterizan por exigir una menor inversión en tiempo, demostraciones de afecto o cariño y tener mas relaciones sexuales sin compromiso; además, estos individuos se caracterizan por tener múltiples parejas sexuales de corta duracion [@simpson1992].
-
 Simpson y Gangestad [@simpson1991; @simpson1992], sugieren que existe una fuerte relación entre las diferencias individuales, la sociosexualidad y la preferencia de pareja romántica. De hecho, la sociosexualidad juega un papel importante en la elección que tienen tanto hombres como mujeres, a la hora de relacionarse ya sea de manera afectiva o sexual con cualquier individuo; las diferencias de sexo que subyacen a la preferencia de pareja romántica, producto del coste de apareamiento/competencia, versus el esfuerzo de la crianza y el compromiso basado en la monogamia [@gettler2019].
 
 De acuerdo con [@jones1998], la sociosexualidad y los diferentes tipos de motivaciones, pueden jugar un papel importante a la hora de conformar y mantener una relación romántica, esto debido a que las bases motivacionales de cada individuo, se ven influenciadas por diferentes dimensiones de recompensa; en algunos casos se presentan por motivaciones extrínsecas, las cuales están enfocadas en las recompensas sociales y relacionales; por otro lado se encuentran las motivaciones instrumentales, las cuales se caracterizan por obtener recompensas enfocadas en las recompensas interpersonales; por último, se encuentran las motivaciones intrínsecas, las cuales se enfocan en el valor que se tiene por la pareja y su relación, así mismo, dentro de los hallazgos del estudio se encontró, que no existen diferencias significativas con respecto a las motivaciones extrínsecas entre los individuos con una sosiosexualidad más restringida y los que no la tienen.
@@ -62,9 +60,6 @@ Es importante recalcar, la voz y varios parámetros vocales, los cuales son indi
  Es importante destacar el inventario de orientación sociosexual (SOI), el cual se encarga de evaluar la sociosexualidad en una sola dimensión, con puntajes altos los cuales indican una tendencia de sexualidad más promiscua y/o con menos restricciones; así como, puntajes bajos los cuales reflejan una clara tendencia a una orientación sociosexual más restringida [@penke2008].
 
 # Población y muestra
-
-```{}
-```
 
 ## Materiales
 
