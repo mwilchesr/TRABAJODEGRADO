@@ -84,7 +84,7 @@ local function create_equal_contributors_block(authors, mark)
   local contributors = {
     pandoc.Superscript(mark'equal_contributor'),
     pandoc.Space(),
-    pandoc.Str 'These authors contributed equally to this work.'
+    pandoc.Str 'Estos estudiantes contribuyeron igualmente a la realización de este trabajo de grado de pregrado'
   }
   return List:new{pandoc.Para(contributors)}
 end
@@ -110,8 +110,8 @@ local function create_correspondence_blocks(authors, mark)
     if is_corresponding_author(author) then
       local mailto = 'mailto:' .. pandoc.utils.stringify(author.email)
       local author_with_mail = List:new(
-        author.name .. List:new{pandoc.Space(),  pandoc.Str '<'} ..
-        author.email .. List:new{pandoc.Str '>'}
+        author.name .. List:new{pandoc.Space(),  pandoc.Str '('} ..
+        author.email .. List:new{pandoc.Str ')'}
       )
       local link = pandoc.Link(author_with_mail, mailto)
       table.insert(corresponding_authors, {link})
@@ -123,7 +123,7 @@ local function create_correspondence_blocks(authors, mark)
   local correspondence = List:new{
     pandoc.Superscript(mark'corresponding_author'),
     pandoc.Space(),
-    pandoc.Str'Correspondence:',
+    pandoc.Str'Correspondencia:',
     pandoc.Space()
   }
   local sep = List:new{pandoc.Str',',  pandoc.Space()}
